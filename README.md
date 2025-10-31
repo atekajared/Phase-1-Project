@@ -64,7 +64,8 @@ Aircraft Damage: Substantial damage (64,148) is most common, followed by destroy
 
 # Visualizations 
 ![alt-text](output.png)
-
+![alt-text](output1.png)
+![alt-text](output11.png)
 # Methodology
 Data Loading & Understanding: Initial exploration of dataset structure and quality
 
