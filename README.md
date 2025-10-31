@@ -66,6 +66,9 @@ Aircraft Damage: Substantial damage (64,148) is most common, followed by destroy
 ![alt-text](output.png)
 ![alt-text](output1.png)
 ![alt-text](output11.png)
+
+# Link Tableau
+https://public.tableau.com/app/profile/jared.mongeri/viz/project_17618513194520/Dashboard?publish=yes
 # Methodology
 Data Loading & Understanding: Initial exploration of dataset structure and quality
 
