@@ -62,6 +62,9 @@ Flight Phase: Landing (15,428) and Takeoff (12,493) phases account for the highe
 
 Aircraft Damage: Substantial damage (64,148) is most common, followed by destroyed aircraft (18,623)
 
+# Visualizations 
+
+
 # Methodology
 Data Loading & Understanding: Initial exploration of dataset structure and quality
 
